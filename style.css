@@ -1,0 +1,131 @@
+body{
+    color: #40514E;
+    text-align: center;
+    font-family: verdana, sans-serif;
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+.title-h2{
+    font-weight: normal;
+    line-height: 1;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.top_container{
+    background-color: #effcef;
+    position: relative;
+    padding-top: 100px;
+    line-height: 1.5;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 400px;
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+.skill-row{
+    display: inline-block;
+    width: 50%;
+    margin: 10px auto;
+    text-align: left;
+}
+.code-img{
+    width: 15%;
+    float: left;
+    margin-right: 50px;
+
+}
+.c-img{
+    width: 15%;
+    float: left;
+    margin-right: 50px;
+}
+.skills{
+    margin-bottom: 50px;
+}
+hr{
+    width: 10%;
+    margin: 50px auto;
+    border: dotted #EAF6F6 4px;
+    border-bottom: none;
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin: 50px auto 20px ;
+    padding: 40px;
+    padding-bottom: 10px;
+}
+.footer-link{
+    margin-top: 50px;
+    color: #11999E;
+    padding: 50px 50px 10px 50px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.footer-p{
+    color: #EAF6F6;
+    font-size: 0.7rem;
+    padding: 10px auto 0;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+p{
+    padding-bottom: 20px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.contact-me{
+    width: 50%;
+    margin: auto;
+}
+.contact-msg{
+    margin: 40px auto;
+}
